@@ -10,12 +10,13 @@ Name:
    A walking-mall is enabled by surrounding it with a 25mph, No-Stop, controlled-access loop.
 <br><br>
 
-<h3>Files included:</h3>   
-   <ul><li>downtown.jpg - To briefly see the concept.
-   </li><li>downtown.kmz - To drop into GoogleEarth.
-   </li><li>downtown.kml - To drop into GoogleEarth, or to search through, in a code-editor.
-   </li><li>poster.docx - To print up flyers.
-   </li><li>qr-code.png - QR code to get to this repository at the URL below
+<h3>Files included:</h3>  <b><i>(Click to view!)</i></b> 
+    <ul><li><a href="https://github.com/rudminda/downtown/downtown.jpg">downtown.jpg</a>  - To briefly see the concept.
+   </li><li><a href="https://github.com/rudminda/downtown/downtown.kmz">downtown.kmz</a> - To drop into GoogleEarth.
+   </li><li><a href="https://github.com/rudminda/downtown/downtown.kml">downtown.kml</a> - To drop into GoogleEarth, or to search through, in a code-editor.
+   </li><li><a href="https://github.com/rudminda/downtown/poster.docx">poster.docx</a>  - To print up flyers.
+   </li><li><a href="https://github.com/rudminda/downtown/poster.pdf">poster.pdf</a>   - To print up flyers.
+   </li><li><a href="https://github.com/rudminda/downtown/qr-code.png">qr-code.png</a>  - QR code to get to this repository at the URL below
    </li></ul>
    
 <h3>History:</h3>  
