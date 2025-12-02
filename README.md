@@ -11,12 +11,12 @@ Name:
 <br><br>
 
 <h3>Files included:</h3>  <b><i>(Click to view!)</i></b> 
-    <ul><li><a href="https://github.com/rudminda/downtown/downtown.jpg">downtown.jpg</a>  - To briefly see the concept.
-   </li><li><a href="https://github.com/rudminda/downtown/downtown.kmz">downtown.kmz</a> - To drop into GoogleEarth.
-   </li><li><a href="https://github.com/rudminda/downtown/downtown.kml">downtown.kml</a> - To drop into GoogleEarth, or to search through, in a code-editor.
+    <ul><li><a href="https://github.com/rudminda/downtown/blob/main/downtown.jpg">downtown.jpg</a>  - To briefly see the concept.
+   </li><li><a href="https://github.com/rudminda/downtown/blob/main/downtown.kmz">downtown.kmz</a> - To drop into GoogleEarth.
+   </li><li><a href="https://github.com/rudminda/downtown/blob/main/downtown.kml">downtown.kml</a> - To drop into GoogleEarth, or to search through, in a code-editor.
    </li><li><a href="https://docs.google.com/document/d/1rDm5oWYxvwyXpfy-ZZFSaYEImv6g_xcNuNNr_0XF1SE/edit?usp=sharing">poster.docx</a> *  - To print up flyers.  <br> * Note: As this file is too big for Github, the link will take you to download it from my online Google Drive.)
-   </li><li><a href="https://github.com/rudminda/downtown/poster.pdf">poster.pdf</a>   - To print up flyers.
-   </li><li><a href="https://github.com/rudminda/downtown/qr-code.png">qr-code.png</a>  - QR code to get to this repository at the URL below
+   </li><li><a href="https://github.com/rudminda/downtown/blob/main/poster.pdf">poster.pdf</a>   - To print up flyers.
+   </li><li><a href="https://github.com/rudminda/downtown/blob/main/qr-code.png">qr-code.png</a>  - QR code to get to this repository at the URL below
    </li></ul>
    
 <h3>History:</h3>  
